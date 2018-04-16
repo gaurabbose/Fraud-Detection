@@ -1,4 +1,4 @@
-.# Kaggle Competition Entry - TalkingData Fraud Detection
+# Kaggle Competition Entry - TalkingData Fraud Detection
 
 Author: Gaurab Bose
 
